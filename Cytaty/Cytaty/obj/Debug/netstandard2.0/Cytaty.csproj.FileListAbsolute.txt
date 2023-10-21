@@ -1,0 +1,16 @@
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\Cytaty.csproj.AssemblyReference.cache
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\Cytaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\QuotesPage.xaml.g.cs
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\Cytaty.AssemblyInfoInputs.cache
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\Cytaty.AssemblyInfo.cs
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\Cytaty.csproj.CoreCompileInputs.cache
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\bin\Debug\netstandard2.0\Cytaty.deps.json
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\bin\Debug\netstandard2.0\Cytaty.dll
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\bin\Debug\netstandard2.0\ref\Cytaty.dll
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\bin\Debug\netstandard2.0\Cytaty.pdb
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\Cytaty.dll
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\refint\Cytaty.dll
+C:\Users\konra\source\repos\Cytaty\Cytaty\Cytaty\obj\Debug\netstandard2.0\Cytaty.pdb

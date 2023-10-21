@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "50hP41hiv29ZJs6Vn1lUZv+gRY8vbmBuyZZqZwsXmCMuHqtCr9IDe44zKb4HAZhHSJr/0aMHY1bhIlcoyxveEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\konra\\source\\repos\\Cytaty\\Cytaty\\Cytaty\\Cytaty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

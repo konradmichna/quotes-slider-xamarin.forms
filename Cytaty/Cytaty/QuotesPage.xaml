@@ -4,13 +4,13 @@
              x:Class="Cytaty.QuotesPage">
     <ContentPage.Content Padding="20">
         <StackLayout Padding="20">
-            <Button Text="Next"
-            Clicked="ChangeQuote"
+            <Button Text="Zmień"
+            Clicked="ZmienCytat"
             HorizontalOptions="Center"
     />
-            <Label Text="{Binding Source={x:Reference FontSizeSlider}, Path=Value, StringFormat='Font Size: {0:F2}'}" />
-            <Slider x:Name="FontSizeSlider" Maximum="50" Minimum="16" Value="16" />
-            <Label x:Name="quoteLabel" FontSize="{Binding Source={x:Reference FontSizeSlider}, Path=Value}" />
+            <Label Text="{Binding Source={x:Reference FontSlider}, Path=Value, StringFormat='Rozmiar czcionki: {0:F2}'}" />
+            <Slider x:Name="FontSlider" Maximum="50" Minimum="16" Value="16" />
+            <Label x:Name="cytat" FontSize="{Binding Source={x:Reference FontSlider}, Path=Value}" />
 
         </StackLayout>
     </ContentPage.Content>

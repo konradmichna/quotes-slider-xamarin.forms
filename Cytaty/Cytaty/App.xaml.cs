@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +10,7 @@ namespace Cytaty
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new QuotesPage());
+            MainPage = new QuotesPage();
         }
 
         protected override void OnStart()
